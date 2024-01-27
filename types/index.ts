@@ -112,7 +112,7 @@ export type CheckoutOrderParams = {
  buyerId: string
 }
 
-export type CreateOrderParams = {
+export type   CreateOrderParams = {
  stripeId: string
  eventId: string
  buyerId: string
