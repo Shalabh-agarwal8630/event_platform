@@ -13,7 +13,7 @@ const Footer = () => {
             height={38}
           />
         </Link>
-        <p>Made By <a href="https://www.linkedin.com/in/shalabh-agarwal-84035121b/" target="blank">Shalabh Agarwal</a></p>
+        <p>Made By <a href="https://www.linkedin.com/in/shalabh-agarwal-84035121b/" target="blank" className="text-blue-500 hover:underline">Shalabh Agarwal</a></p>
         <p>2023 Evently. All Rights reserved.</p>
       </div>
     </footer>
